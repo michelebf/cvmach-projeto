@@ -107,3 +107,22 @@ Objetivo: aumentar a compatibilidade entre currículo e vaga, com exportação e
 
 
 
+
+
+<img width="1338" height="627" alt="image" src="https://github.com/user-attachments/assets/ae4bd4a1-5227-46d0-9653-b4b3c68cb489" />
+
+<img width="1342" height="636" alt="image" src="https://github.com/user-attachments/assets/6b50cc69-e6ec-4c7f-b85d-cb27f0e25a87" />
+
+
+
+<img width="914" height="588" alt="image" src="https://github.com/user-attachments/assets/f20b4b63-a657-4844-bc65-d05492d67db2" />
+
+<img width="912" height="560" alt="image" src="https://github.com/user-attachments/assets/1a8029e2-eee4-409b-98f6-f5d442acfcce" />
+
+
+
+link 
+https://app-resume-matcher.lovable.app
+
+
+
