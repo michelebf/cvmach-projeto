@@ -229,7 +229,7 @@ export default function HeroSection() {
 ### Versão final já com a landing page inicial, títulos e ajustes de design e conteúdo corrigidos.
 <img width="1347" height="604" alt="image" src="https://github.com/user-attachments/assets/f241c3c0-bcb1-4d2c-8a08-b6966df9f101" />
 
-### Resultado final com o Lovable:  https://app-resume-matcher.lovable.app
+### 🚀Resultado final com o Lovable:  https://app-resume-matcher.lovable.app
 
 ### Como a análise funciona na plataforma
 
