@@ -210,17 +210,28 @@ export default function HeroSection() {
   )
 }
 ```
+<br>
+
+### Primeira versão gerada. A home iniciava pela própria ferramenta e o título e experiência do design não eram adequadas.
 
 
+<img width="1342" height="636" alt="image" src="https://github.com/user-attachments/assets/6b50cc69-e6ec-4c7f-b85d-cb27f0e25a87" />
 
+
+### Visão da tela com o upload do currículo já funcionando normalmente e com a possibilidade de cancelamento do arquivo.
+<img width="1338" height="627" alt="image" src="https://github.com/user-attachments/assets/ae4bd4a1-5227-46d0-9653-b4b3c68cb489" />
+
+### Teste de navegação e usabilidade em funcionamento normal para as telas seguintes
+<img width="914" height="588" alt="image" src="https://github.com/user-attachments/assets/f20b4b63-a657-4844-bc65-d05492d67db2" />
+
+<img width="912" height="560" alt="image" src="https://github.com/user-attachments/assets/1a8029e2-eee4-409b-98f6-f5d442acfcce" />
+
+### Versão final já com a landing page inicial, títulos e ajustes de design e conteúdo corrigidos.
+<img width="1347" height="604" alt="image" src="https://github.com/user-attachments/assets/f241c3c0-bcb1-4d2c-8a08-b6966df9f101" />
 
 ### Resultado final com o Lovable:  https://app-resume-matcher.lovable.app
 
-
-
-
-
-## Como a análise funciona
+### Como a análise funciona na plataforma
 
 O **ATS Resume Matcher** foi criado para resolver um problema real enfrentado por milhares de candidatos: currículos que são barrados por sistemas de triagem automática (ATS) antes mesmo de chegarem às mãos dos recrutadores.
 
