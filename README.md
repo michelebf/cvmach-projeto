@@ -170,17 +170,19 @@ Depoimentos ou estatísticas: "Mais de 1.000 currículos otimizados"
 - Notei que a home, ainda precisava melhorar o design e o título principal. Recorri ao Copilot para formatar o código ideal para realizar os devidos ajustes no
 layout para chegar ao resultado desejado. Colei o seguinte prompt no Lovable: "substitua "conquistar a entrevista" por : <strong>"conquistar a vaga dos sonhos". Também, faça os seguintes ajustes:</strong>
 
-```markdown
 ## 💡 Melhorias de Design aplicadas no Lovable
+
 Durante o desenvolvimento, foram feitos ajustes para tornar a **Landing Page** mais amigável e responsiva:
 
 ### Ajustes principais
+
 - Redução da tipografia e espaçamento vertical.
 - Limitação da largura máxima do texto (`max-w-3xl`).
 - Botão CTA com proporção equilibrada (`px-6 py-3 text-sm md:text-base`).
 - Layout centralizado e fluido com Tailwind.
 
 ### Comando aplicado no Lovable
+
 ```tsx
 import { Button } from "@/components/ui/button"
 
@@ -191,12 +193,15 @@ export default function HeroSection() {
         <p className="text-sm text-green-600 font-medium mb-4">
           Mais de 1.000 currículos otimizados
         </p>
+
         <h1 className="text-3xl md:text-4xl lg:text-5xl font-bold tracking-tight mb-4">
           Otimize seu currículo para passar pelos robôs de triagem (ATS).
         </h1>
+
         <p className="text-base md:text-lg text-muted-foreground mb-6">
           Compare seu currículo com a vaga e descubra o que falta para conquistar a entrevista.
         </p>
+
         <Button className="px-6 py-3 text-sm md:text-base">
           Envie seu currículo →
         </Button>
@@ -204,10 +209,9 @@ export default function HeroSection() {
     </section>
   )
 }
-```tsx
+```
 
-
-
+<strong>Resultado final com o Lovable:</strong>  https://app-resume-matcher.lovable.app
 
 
 
