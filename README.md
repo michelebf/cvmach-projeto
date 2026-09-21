@@ -119,9 +119,9 @@ Objetivo: aumentar a compatibilidade entre currículo e vaga, com exportação e
 
 ## Interações com o Lovable
 
-- Primeira solicitação: Crie um App de finanças pessoais com base no seguinte PRD (Product Requirement Document): {PRD}.
+- Primeira solicitação: Crie um gerador de currículos com base no seguinte PRD (Product Requirement Document): {PRD}.
   
-- Criada a primeira versão do MVP com a tela inicial contendo a ferramenta de Upload de currículo e campo para colar os dados da vava
+- Criada a primeira versão do MVP com a tela inicial contendo a ferramenta de Upload de currículo e campo para colar os dados da vaga
   pretendida. Subi um CV para testar. Notei que o upload não era feito. Para corrigir o erro, apliquei o prompt: <strong>" Deixe possível o
   upload do currículo com a confirmação do envio concluído assim que finalizar"</strong>
   
