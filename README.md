@@ -211,7 +211,32 @@ export default function HeroSection() {
 }
 ```
 
-<strong>Resultado final com o Lovable:</strong>  https://app-resume-matcher.lovable.app
+
+
+
+### Resultado final com o Lovable:  https://app-resume-matcher.lovable.app
+
+
+
+
+
+## Como a análise funciona
+
+O **ATS Resume Matcher** foi criado para resolver um problema real enfrentado por milhares de candidatos: currículos que são barrados por sistemas de triagem automática (ATS) antes mesmo de chegarem às mãos dos recrutadores.
+
+###  Da vaga ao currículo ajustado
+- **Colagem da vaga**: o candidato insere a descrição da oportunidade desejada. O sistema identifica requisitos, palavras-chave e competências essenciais.  
+- **Upload do currículo**: o documento é analisado em detalhe, extraindo experiências, habilidades e formato.  
+- **Comparação inteligente**: o algoritmo calcula o percentual de compatibilidade entre vaga e currículo, destacando pontos fortes e lacunas.  
+- **Sugestões ATS**: recomendações práticas são geradas para melhorar o currículo — desde ajustes de linguagem até inclusão de palavras-chave relevantes.  
+- **Currículo otimizado**: o candidato aplica as sugestões e exporta uma versão atualizada em PDF ou DOCX, pronta para envio.  
+
+### 🎯 O impacto para o candidato
+Com esse processo, o candidato deixa de ser barrado por robôs de triagem e passa a ter **mais chances de chegar à entrevista**.  
+O dashboard permite acompanhar a evolução do “match” ao longo do tempo, tornando a busca por emprego mais estratégica e menos frustrante.  
+
+Em resumo, o ATS Resume Matcher transforma o currículo em uma ferramenta competitiva, alinhada às exigências das empresas e adaptada para diferentes nichos — seja para quem busca o **primeiro emprego** ou para profissionais de **tecnologia**.
+
 
 
 
