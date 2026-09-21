@@ -104,8 +104,22 @@ Objetivo: aumentar a compatibilidade entre currículo e vaga, com exportação e
 
 ```
 
+## Interações com o Lovable
+
+- Primeira solicitação: Crie um App de finanças pessoais com base no seguinte PRD (Product Requirement Document): {PRD}.
+- Criada a primeira versão do MVP com a tela inicial contendo a ferramenta de Upload de currículo e campo para colar os dados da vava
+  pretendida. Subi um CV para testar. Notei que o upload não era feito. Para corrigir o erro, apliquei o prompt: <strong>" Deixe possível o
+  upload do currículo com a confirmação do envio concluído assim que finalizar"</strong> 
+- Fiz o teste novamente para subir o currículo e estava tudo Ok, mas notei que havia ausência do "X" de fechar caso a pessoa desistisse
+  do envio do CV ou tivesse enviado um arquivo errado. Apliquei o Prompt: <strong> "coloque a funcionalidade de "x" para caso o usuários desejar
+  deletar o currículo que foi feito upload."</strong>
+- Testei novamente, o currículo subiu OK e pude testar as demais funcionalidades. constatei que estão rodando normalmente.
+- 
 
 
+
+
+Resultado final com o Lovable:  https://app-resume-matcher.lovable.app
 
 
 
@@ -121,8 +135,27 @@ Objetivo: aumentar a compatibilidade entre currículo e vaga, com exportação e
 
 
 
-link 
-https://app-resume-matcher.lovable.app
+
+
+
+
+
+
+Qual problema a sua aplicação resolve;
+O mega prompt que você usou, e o que mudou nele até a versão final;
+Como a análise funciona, da vaga colada até o currículo ajustado;
+Que ajustes você pediu depois da primeira geração, e por quê;
+O endereço da aplicação publicada.
+Print da análise e exemplo de uso contam muito. Evidência de que a aplicação roda é o que mais pesa em um portfólio.
+
+Antes de submeter, confira:
+
+A aplicação está publicada e abre para quem tem o endereço;
+Todo arquivo e pasta citada no README existem e têm conteúdo;
+O link enviado é o do repositório, não o da aplicação nem o de um arquivo;
+O repositório está na sua conta e público;
+Nenhuma chave, token ou senha ficou versionada;
+O nome do repositório ficou legível, em minúsculas e sem acento.
 
 
 
